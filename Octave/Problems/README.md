@@ -3,7 +3,7 @@
 Por medio de matrices de transformación homogénea representaremos la posición y orientación de un sistema girado y trasladado con respecto al sistema fijo de referencia. [Descargar y vizualizar el tema.](https://cloud.elifedrive.com/public/zNqBx3Lpd_-g32wF7cKfK46a) 
 
 
-1. Trace un sistema UVW que se encuentra girado 85° alrededor del eje X con respecto al sistema XYZ. Y calcule las coordenadas del vector r xyz si r uvw = [3.5, 6.4, 9.1]
+1. Trace un sistema UVW que se encuentra girado 85° alrededor del eje X con respecto al sistema XYZ. Y calcule las coordenadas del vector rxyz si ruvw = [3.5, 6.4, 9.1]
 2. Trace el vector r' xyz resultante de rotar el vector r xyz = [2.5, 4, 8.1] que se encuentra girado -15° sobre el eje Y.
 3. Trace un sistema UVW que esta trasladado un vector p(4.8, 6.3, -9.2) con respecto al sistema XYZ. Calcule las coordenadas (r x , r y , r z ) del vector r cuyas coordenadas con respecto al sistema UVW son r uvw (3.9, -5.7, 9).
 4. Trace el sistema UVW que ha sido trasladado un vector p(3.4, 7.15, 8.03) con respecto al sistema XYZ y seguida de una rotación con un angulo de 29° sobre el eje Y. Calcule las coordenadas (r x ,r y , r z ) del vector r de coordenadas r uvw (13, 6.9, 9.0).
