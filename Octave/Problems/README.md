@@ -1,4 +1,4 @@
-#Los siguientes problemas corresponden al tema de coordenadas homogéneas.
+# Problemas coordenadas homogéneas.
 
 Por medio de matrices de transformación homogénea representaremos la posición y orientación de un sistema girado y trasladado con respecto al sistema fijo de referencia. [Descargar y vizualizar el tema.](https://cloud.elifedrive.com/public/zNqBx3Lpd_-g32wF7cKfK46a) 
 
