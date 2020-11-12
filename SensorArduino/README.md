@@ -1,37 +1,35 @@
-# Robotics Projects🤖
-Examples and Projects from robotics.
-Learning unit at Autonomous University of Mexico State
+# Robotics Projects Overview🤖
 
-<img width="300" align="right" src="https://www.gnu.org/software/octave/img/octave-logo.svg" alt="Processing IDE" >
+<img width="300" align="right" src="https://www.arduino.cc/wiki/6c27bc3a77245e1c8d4fe8abea8002ff/arduino.svg" alt="Processing IDE" >
+<img width="300" align="right" src="https://4.bp.blogspot.com/-p5l6y940EeA/WywLv8_e5sI/AAAAAAAAAao/Ts9aj4uOSV8f0cDEznbbItBpTeV0rd3zgCLcBGAs/s0/cover.jpg" alt="Processing IDE" >
 
-En esté repositorio se encuentran ejemplos prácticos e información que desarrolle en mi universidad. Utilizamos herramientas como Octave, . 
-
+Para poder simular, compilar y diseñar los circuitos, deberemos ya contar con Proteus 8 y Arduino IDE.
 
 ## Comenzando 🚀👨‍💻🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
+
 ### Pre-requisitos 📋
 
-_Para los problemas y ejercicios de la carpeta Octave, [Octave IDE](https://www.gnu.org/software/octave/)_
+_Simulador [Proteus 8](https://www.labcenter.com/downloads/)_  
+_Arduino [IDE](https://www.arduino.cc/en/software)_
 
-```
-1. Octave IDE
-```
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Para instalar Octave IDE es necesario identificar tu sistema operativo e ir a [Octave Descargar](https://www.gnu.org/software/octave/download.html)_
-_**Distribuciones debian GNU/Linux**_
-
-```
-1. sudo apt-get install octave
-```
-
-## Construido con 🛠️
+## Simulando y emulando 🛠️
 * [Octave IDE](https://www.gnu.org/software/octave/)
+
+
+## Ejemplos
+Processing tiene una amplia biblioteca de ejemplos cuando lo instalas, en este repositorio encontraras los siguientes ejemplos.
+
+
+| | 
+|:-------------------------:|
+|<img width="1604" alt="LM35" src="/SensorArduino/TemperaturaLM35/schematic.png">  Sensores de Temperatura (LM35) |
+|<img width="1604" alt="Ultrasonico" src="/SensorArduino/Ultrasonic/schematic.png">  Sensor Ultrasónico |  <img width="1604" alt="Motores" src="/SensorArduino/Control-DC-Servo-StepMotor/schematic.png">  Control de motores |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">  Elipse Modificado |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">  Polígono |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=""> Polígono 2|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">  Transformaciones|
+
 
 ## Autores ✒️
 
@@ -40,7 +38,8 @@ _**Distribuciones debian GNU/Linux**_
 
 
 ## Expresiones de Gratitud 🎁
+* Profe Vale.
+* Profe Diego.
 
-* Profe diego.
 ---
 Con 💚🐴💚por [Martín.](https://github.com/MarqCervMartin)
